@@ -1,23 +1,21 @@
-# Gemini File API Sample Client Code
+# Gemini 檔案 API 範例客戶端程式碼
 
-## Background
-The Gemini File API provides a simple way for developers to upload files and use them with the Gemini API in multimodal scenarios. This repository shows how to use the File API to upload an image and include it in a `GenerateContent` call to the Gemini API.
-
+## 背景
+Gemini 檔案 API 提供開發人員一個簡單的方式來上傳檔案並在多模態情境中使用 Gemini API。這個存放庫展示了如何使用檔案 API 上傳圖片並將其包含在對 Gemini API 的 `GenerateContent` 呼叫中。
 
 > [!IMPORTANT]
-> The File API is currently in beta and is [only available in certain regions](https://ai.google.dev/available_regions).
+> 檔案 API 目前處於測試版，僅在[特定地區](https://ai.google.dev/available_regions)提供。
 
-## Quickstarts
-Ready to get started? Learn the essentials of uploading files and using them in GenerateContent requests to the Gemini API:
+## 快速入門
+準備好開始了嗎？學習如何上傳檔案並在 Gemini API 的 GenerateContent 請求中使用它們的基本要點：
 
-[File API Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/File_API.ipynb)
+[檔案 API Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/File_API.ipynb)
 
-[Audio Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Audio.ipynb)
+[音訊 Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Audio.ipynb)
 
-[Video Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Video.ipynb)
+[影片 Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Video.ipynb)
 
-
-## Python Sample
+## Python 範例
 ```
 # Prepare a virtual environment for Python.
 python3 -m venv venv
@@ -34,9 +32,9 @@ pip3 install -U -r requirements.txt
 python3 sample.py
 ```
 
-## Node.js Sample
+## Node.js 範例
 ```
-# Make sure npm is installed first. 
+# Make sure npm is installed first.
 
 # Add API key to .env file
 touch .env
@@ -49,8 +47,8 @@ npm install
 npm start
 ```
 
-## cURL Bash Script Sample
-The following script will upload a file given the file path.
+## cURL Bash Script 範例
+以下腳本將根據檔案路徑上傳檔案。
 ```
 bash ./sample.sh -a "<YOUR_KEY>" -i "sample_data/gemini_logo.png" -d "Gemini logo"
 ```

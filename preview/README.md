@@ -1,8 +1,8 @@
-# Gemini API Preview 
+# Gemini API 預覽
 
-This folder contains notebooks for upcoming API features. Expect bugs and rough edges.
+此資料夾包含即將推出的 API 功能的筆記本。請預期可能會有錯誤和不完善的地方。
 
-**Important note:**
-Your API key may not have permission to use the features in this folder. Features in this folder are gradually rolled out.
+**重要提示：**
+您的 API 金鑰可能沒有權限使用此資料夾中的功能。這些功能會逐步推出。
 
-When the feature becomes generally available, the notebooks will graduate to other folders in the cookbook, and the preview folder will be deleted.
+當功能正式推出時，筆記本將會移到 cookbook 的其他資料夾，並且預覽資料夾將被刪除。

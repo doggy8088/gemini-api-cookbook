@@ -1,45 +1,45 @@
-# Contributing to the Gemini API Cookbook
+# 貢獻 Gemini API Cookbook
 
-We would love to accept your patches and contributions to the Gemini API Cookbook. We are excited that you are considering donating some of your time, and this guide will help us be respectful of that time.
+我們非常歡迎您對 Gemini API Cookbook 提交修補程式碼和貢獻。我們很高興您考慮捐贈一些時間，這份指南將幫助我們尊重您的時間。
 
-# Before you send anything
+# 在您發送任何內容之前
 
-## Sign our contributor agreement
+## 簽署我們的貢獻者協議
 
-All contributions to this project must be accompanied by a [Contributor License Agreement](https://cla.developers.google.com/about) (CLA). You (or your employer) retain the copyright to your contribution; this simply gives us permission to use and redistribute your contributions as part of the project.
+所有對這個專案的貢獻都必須附上[貢獻者授權協議](https://cla.developers.google.com/about) (CLA)。您（或您的雇主）保留對您的貢獻的版權；這只是給予我們使用和重新分發您的貢獻作為專案的一部分的許可。
 
-If you or your current employer have already signed the Google CLA (even if it was for a different project), you probably don't need to do it again.
+如果您或您目前的雇主已經簽署了 Google CLA（即使是為了不同的專案），您可能不需要再次簽署。
 
-Visit [https://cla.developers.google.com/](https://cla.developers.google.com/) to see your current agreements or to sign a new one.
+請訪問[https://cla.developers.google.com/](https://cla.developers.google.com/)查看您目前的協議或簽署新的協議。
 
-## Style guides
+## 風格指南
 
-Before you start writing, take a look at the [technical writing style guide](https://developers.google.com/style). You don’t need to fully digest the whole document, but do read the [highlights](https://developers.google.com/style/highlights) so you can anticipate the most common feedback.
+在您開始撰寫之前，請查看[技術寫作風格指南](https://developers.google.com/style)。您不需要完全消化整個文件，但請閱讀[要點](https://developers.google.com/style/highlights)，以便您能預見最常見的反饋。
 
-Also check out the relevant [style guide](https://google.github.io/styleguide/) for the language you will be using. These apply strictly to raw code files (e.g. *.py, *.js), though code fragments in documentation (such as markdown files or notebooks) tend to favor readability over strict adherence.
+同時，請查看您將使用的語言的相關[風格指南](https://google.github.io/styleguide/)。這些嚴格適用於原始程式碼文件（例如 *.py、*.js），但在文件（如 markdown 檔案或筆記本）中的程式碼片段通常傾向於可讀性而非嚴格遵守。
 
-For Python notebooks (*.ipynb files), consider running `pyink` over your notebook. It is not required, but it will avoid style-related nits.
+對於 Python 筆記本（*.ipynb 檔案），請考慮在筆記本上運行 `pyink`。這不是必需的，但它將避免與風格相關的問題。
 
-# Making changes
+# 進行更改
 
-## Small fixes
+## 小修正
 
-Small fixes, such as typos or bug fixes, can be submitted directly via a pull request.
+小修正，例如拼寫錯誤或錯誤修正，可以直接通過拉取請求提交。
 
-## Content submission
+## 提交內容
 
-Before you send a PR, or even write a single line, please file an [issue](https://github.com/google-gemini/cookbook/issues). There we can discuss the request and provide guidance about how to structure any content you write.
+在您發送拉取請求之前，或者甚至只寫一行程式碼之前，請先提交一個[問題](https://github.com/google-gemini/cookbook/issues)。在那裡，我們可以討論您的請求並提供有關如何結構化您撰寫的任何內容的指導。
 
-Adding a new guide often involves lots of detailed reviews and we want to make sure that your idea is fully formed and has full support before you start writing anything. If you want to port an existing guide across (e.g. if you have a guide for Gemini on your own GitHub), feel free to link to it in the issue.
+添加新指南通常涉及大量詳細的審查，我們希望確保您的想法完全形成並得到全面支持，然後再開始撰寫任何內容。如果您想將現有指南移植（例如，如果您在自己的 GitHub 上有一個 Gemini 的指南），請在問題中提供連結。
 
-## Things we consider
+## 我們考慮的事項
 
-When accepting a new guide, we want to balance a few aspects.
-* Originality - e.g. Is there another guide that does the same thing?
-* Pedagogy - e.g. Does this guide teach something useful? Specifically for a Gemini API feature?
-* Quality - e.g. Does this guide contain clear, descriptive prose? Is the code easy to understand?
+在接受新指南時，我們希望平衡幾個方面。
+* 原創性 - 例如，是否有另一個做同樣事情的指南？
+* 教學性 - 例如，這個指南是否教授了有用的內容？特別是針對 Gemini API 功能？
+* 品質 - 例如，這個指南是否包含清晰、描述性的散文？程式碼易於理解嗎？
 
-It is not crucial for a submission to be strong along all of these dimensions, but the stronger the better. Old submissions may be replaced in favor of newer submissions that exceed these properties.
+提交不必在所有這些方面都強大，但越強大越好。舊的提交可能會被新的提交取代，後者超越了這些特性。
 
-## Attribution
-If you have authored a new guide from scratch, you are welcome to include a byline at the top of the document with your name and GitHub username.
+## 姓名標示
+如果您從頭開始撰寫了一個新的指南，歡迎您在文件頂部包含您的名字和 GitHub 用戶名的署名。

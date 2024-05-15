@@ -1,10 +1,7 @@
-# Gemini API and Google Workspace Codelab
+# Gemini API 和 Google Workspace Codelab
 
-These are the final, accompanying files for the [Automate Google Workspace tasks with the Gemini API
-](https://codelabs.developers.google.com/codelabs/gemini-workspace) codelab. This codelabs shows you how to
-connect to the Gemini API using Apps Script, and uses the function calling, vision and text capabilities to automate
-Google Workspace tasks - summarising a document, analyzing a chart, sending an email and generating some slides directly. All of this is done from a free text input.
+這些是 [使用 Gemini API 自動化 Google Workspace 任務](https://codelabs.developers.google.com/codelabs/gemini-workspace) codelab 的最終附帶檔案。這個 codelab 會教你如何使用 Apps Script 連接到 Gemini API，並使用函數調用、視覺和文本功能來自動化 Google Workspace 任務 - 摘要文件、分析圖表、發送電子郵件和直接生成幾張投影片。所有這些都是從免費文本輸入完成的。
 
-Please read and follow along with the main codelab, and if you get stuck you can load these files directly.
+請閱讀並跟隨主要的 codelab，如果遇到問題，您可以直接載入這些檔案。
 
-This workshop was featured at [Google I/O 2024](https://io.google/2024/).
+這個工作坊在 [Google I/O 2024](https://io.google/2024/) 上展示。
