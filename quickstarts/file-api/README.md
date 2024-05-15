@@ -9,11 +9,11 @@ Gemini 檔案 API 提供開發人員一個簡單的方式來上傳檔案並在�
 ## 快速入門
 準備好開始了嗎？學習如何上傳檔案並在 Gemini API 的 GenerateContent 請求中使用它們的基本要點：
 
-[檔案 API Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/File_API.ipynb)
+[檔案 API Colab](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/File_API.zh.ipynb)
 
-[音訊 Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Audio.ipynb)
+[音訊 Colab](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/Audio.zh.ipynb)
 
-[影片 Colab](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Video.ipynb)
+[影片 Colab](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/Video.zh.ipynb)
 
 ## Python 範例
 ```

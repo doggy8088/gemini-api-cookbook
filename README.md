@@ -8,10 +8,10 @@ Gemini API 提供了存取由[Google DeepMind](https://deepmind.google/technolog
 1. 前往[Google AI Studio](https://aistudio.google.com/)。
 2. 使用您的 Google 帳戶登錄。
 3. [建立](https://aistudio.google.com/app/apikey)一個 API 金鑰。
-4. 使用 Python 的[快速入門](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Prompting.ipynb)，或使用 curl 調用 REST API 的[範例](https://github.com/google-gemini/cookbook/blob/main/quickstarts/rest/Prompting_REST.ipynb)。
+4. 使用 Python 的[快速入門](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/Prompting.zh.ipynb)，或使用 curl 調用 REST API 的[範例](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/rest/Prompting_REST.zh.ipynb)。
 
 ### 功能
-通過查看[安全性](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Safety.ipynb)、[嵌入](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Embeddings.ipynb)、[函數調用](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Function_calling.ipynb)、[音頻](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Audio.ipynb)等快速入門，了解 Gemini API 的功能。
+通過查看[安全性](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/Safety.zh.ipynb)、[嵌入](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/Embeddings.zh.ipynb)、[函數調用](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/Function_calling.zh.ipynb)、[音頻](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/quickstarts/Audio.zh.ipynb)等快速入門，了解 Gemini API 的功能。
 
 ## 官方 SDK
 Gemini API 是一個 REST API。您可以使用像 `curl` 這樣的命令行工具調用 API，或者使用我們的官方 SDK 之一：
@@ -26,6 +26,6 @@ Gemini API 是一個 REST API。您可以使用像 `curl` 這樣的命令行工�
 在新的[Build with Google AI 論壇](https://discuss.ai.google.dev/)上提問，或在 GitHub 上[提交問題](https://github.com/google-gemini/cookbook/issues)。
 
 ## 貢獻
-歡迎貢獻。請參閱[貢獻指南](https://github.com/google-gemini/cookbook/blob/main/CONTRIBUTING.md)以了解更多信息。
+歡迎貢獻。請參閱[貢獻指南](https://github.com/doggy8088/gemini-api-cookbook/blob/zh-tw/CONTRIBUTING.md)以了解更多信息。
 
 感謝您使用 Gemini API 進行開發！我們期待看到您建立的內容。
